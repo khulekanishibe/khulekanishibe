@@ -1,4 +1,4 @@
-[github-profile-readme.md](https://github.com/user-attachments/files/22116328/github-profile-readme.md)
+
 # Hi there, I'm Khulekani Shibe! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khulekanishibe&color=blue)
