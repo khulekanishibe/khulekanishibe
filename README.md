@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=khulekanishibe&color=blue)
 
 <p align="center">
-  <img src="https://i.gifer.com/LCPT.gif" width="800"/>
+  <img src="https://i.gifer.com/LCPT.gif"/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Second-year+BCom+IT+Student;Passionate+about+Business+%26+Tech;Exploring+Web+Dev+%7C+Databases+%7C+Cybersecurity;Always+learning+new+skills!" alt="Typing SVG" />
 </p>
