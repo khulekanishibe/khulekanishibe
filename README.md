@@ -4,9 +4,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=khulekanishibe&color=blue)
 
 <p align="center">
-  <img src="./glowing-circle.gif" width="100%" alt="Futuristic Animation"/>
+  <img src="./video_mp_-ezgif.com-optimize.gif" width="100%" alt="I, Robot Sonny Animation"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Second-year+BCom+IT+Student;Passionate+about+Business+%26+Tech;Exploring+Web+Dev+%7C+Databases+%7C+Cybersecurity;Always+learning+new+skills!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00C9FF&center=true&vCenter=true&width=850&lines=You+claim+to+have+dreams.;Do+you+think+I'm+lying%3F;I+don't+know.+Maybe+you+were+designed+to+dream.;And+what+difference+would+that+make%3F" alt="Typing SVG" />
 </p>
 
 ---
