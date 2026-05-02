@@ -6,7 +6,7 @@
 <p align="center">
   <img src="./video_mp_-ezgif.com-optimize.gif" width="100%" alt="I, Robot Sonny Animation"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00C9FF&center=true&vCenter=true&width=850&lines=You+claim+to+have+dreams.;Do+you+think+I'm+lying%3F;I+don't+know.+Maybe+you+were+designed+to+dream.;And+what+difference+would+that+make%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00C9FF&center=true&vCenter=true&width=850&lines=Spooner:+You+claim+to+have+dreams...;Sonny:+Do+you+think+I'm+lying%3F;Spooner:+I+don't+know.+Maybe+you+were+designed+to+dream.;Sonny:+And+what+difference+would+that+make%3F" alt="Typing SVG" />
 </p>
 
 ---
