@@ -12,13 +12,13 @@
 ---
 
 ## 🚀 About Me
-I'm Khule, a second-year **BCom in Information & Technology Management** student at **MANCOSA**. I’m passionate about connecting business and technology, while building skills that bridge academic knowledge with real-world applications.
+A Third-Year **BCom in Information & Technology Management** student at **MANCOSA**. I’m passionate about connecting business and technology, while building skills that bridge academic knowledge with real-world applications.
 
 - 🌍 Based in South Africa  
 - 🎓 Currently studying **Database Design, Advanced Business Statistics, and IT Management**  
 - 🌱 Exploring a personal roadmap that ties my degree to **web dev, databases, and cybersecurity fundamentals**  
 - 💼 Experienced in **SAP Financial Accounting, IT support, and Microsoft Office**  
-- ⚡ Fun fact: I enjoy strategy games like **poker**—applying logic to both code and cards!
+- ⚡ Fun fact:Gamer/Binger/Reader
 
 ---
 
